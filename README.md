@@ -9,4 +9,4 @@ Download [GetBoardInfo](GetBoardInfo.zip)
 ## Unlocking the Board Script
 Download [UnlockBoard](UnlockBoard.zip)
 
-Run the UnlockBoard.exe in the same board we tested during the last call, I generated the token manually and hardcoded in the Script.
+Run the UnlockBoard.exe - it will read the token.csv file and unlock the board if find's it in this list.
